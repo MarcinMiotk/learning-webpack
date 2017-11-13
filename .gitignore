@@ -1,2 +1,8 @@
 *.iml
 .idea/
+activeTable/node_modules/
+activeTable/dist/
+activeTable/typings/
+
+
+webpack_hello/build/bundle.js
